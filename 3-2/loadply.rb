@@ -1,0 +1,1 @@
+Dir.glob("*.ply") do |file|
